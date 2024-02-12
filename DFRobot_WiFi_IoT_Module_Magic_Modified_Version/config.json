@@ -1,0 +1,13 @@
+{
+	"uno": true,
+	"nano": true,
+	"mpython": false,
+	"microbit": true,
+	"microbitV2": true,
+	"leonardo": true,
+	"mega2560": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32":false,
+	"pico": true,
+	"include": "DFRobot_WiFi_IoT_Module.h"
+}
