@@ -21,7 +21,7 @@ The wifi lot library extracted from the Mind+ will report errors directly when r
 
 
 ----------
-本库仅适用于在arduino ide中运行mind+生存的代码
+本库仅适用于在arduino ide中运行mind+生成的代码
 
 This library is only suitable for running mind+ generate code in the Arduino IDE 
 
